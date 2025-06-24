@@ -54,7 +54,7 @@ sudo apt-get install imagemagick
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/sandeep210204/AI-content-generator.git
 cd ai-content-generator
 ```
 
